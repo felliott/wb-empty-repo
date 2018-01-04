@@ -1,0 +1,5 @@
+{
+	"provider": "osfstorage",
+	"action": "move",
+	"path": "/"
+}
